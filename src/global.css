@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+Body {
+  background-color: black;
+  color: white;
+
+}
+
+.card-car {
+  padding: 10px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 0, 20px, 0, 20px;
+  border: solid red 2px;
+}
+
